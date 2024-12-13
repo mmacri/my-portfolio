@@ -156,6 +156,6 @@ This portfolio is open-source and available under the [MIT License](LICENSE).
 ## Contact
 
 Feel free to reach out for collaboration or inquiries:
-- **Email**: mikemacri@gmail.com
+
 - **GitHub**: https://github.com/mmacri
 
