@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Code Review Assistant</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Code Review Assistant</h1>
+        <form method="POST">
+            <textarea name="code" placeholder="Paste your code here..." required></textarea>
+            <button type="submit">Analyze Code</button>
+        </form>
+        {% if analysis %}
+            <div class="analysis">
+                <h2>Analysis Results:</h2>
+                <pre>{{ analysis }}</pre>
+            </div>
+        {% endif %}
+    </div>
+</body>
+</html>
