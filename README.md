@@ -1,7 +1,7 @@
 
 # My Git Portfolio
 
-Welcome to my Git portfolio! This repository showcases my skills in software development, data analysis, and artificial intelligence through several projects.
+Welcome to my Git portfolio! This repository showcases my projects in software development, data analysis, and artificial intelligence. 
 
 ## Featured Projects
 
